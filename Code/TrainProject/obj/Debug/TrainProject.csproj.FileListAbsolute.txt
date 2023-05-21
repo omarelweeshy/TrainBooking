@@ -1,0 +1,15 @@
+D:\FCAI\Second Year\Second Semester\DataBase\Assignment\Code\TrainProject\bin\Debug\TrainProject.exe.config
+D:\FCAI\Second Year\Second Semester\DataBase\Assignment\Code\TrainProject\bin\Debug\TrainProject.exe
+D:\FCAI\Second Year\Second Semester\DataBase\Assignment\Code\TrainProject\bin\Debug\TrainProject.pdb
+D:\FCAI\Second Year\Second Semester\DataBase\Assignment\Code\TrainProject\obj\Debug\TrainProject.csproj.AssemblyReference.cache
+D:\FCAI\Second Year\Second Semester\DataBase\Assignment\Code\TrainProject\obj\Debug\TrainProject.csproj.SuggestedBindingRedirects.cache
+D:\FCAI\Second Year\Second Semester\DataBase\Assignment\Code\TrainProject\obj\Debug\TrainProject.edit.resources
+D:\FCAI\Second Year\Second Semester\DataBase\Assignment\Code\TrainProject\obj\Debug\TrainProject.Form1.resources
+D:\FCAI\Second Year\Second Semester\DataBase\Assignment\Code\TrainProject\obj\Debug\TrainProject.loginAdmin.resources
+D:\FCAI\Second Year\Second Semester\DataBase\Assignment\Code\TrainProject\obj\Debug\TrainProject.loginCostumer.resources
+D:\FCAI\Second Year\Second Semester\DataBase\Assignment\Code\TrainProject\obj\Debug\TrainProject.Properties.Resources.resources
+D:\FCAI\Second Year\Second Semester\DataBase\Assignment\Code\TrainProject\obj\Debug\TrainProject.rigesterCostumer.resources
+D:\FCAI\Second Year\Second Semester\DataBase\Assignment\Code\TrainProject\obj\Debug\TrainProject.csproj.GenerateResource.cache
+D:\FCAI\Second Year\Second Semester\DataBase\Assignment\Code\TrainProject\obj\Debug\TrainProject.csproj.CoreCompileInputs.cache
+D:\FCAI\Second Year\Second Semester\DataBase\Assignment\Code\TrainProject\obj\Debug\TrainProject.exe
+D:\FCAI\Second Year\Second Semester\DataBase\Assignment\Code\TrainProject\obj\Debug\TrainProject.pdb
