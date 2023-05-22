@@ -46,6 +46,24 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="addTrian.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="addTrian.Designer.cs">
+      <DependentUpon>addTrian.cs</DependentUpon>
+    </Compile>
+    <Compile Include="deleteCostumer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="deleteCostumer.Designer.cs">
+      <DependentUpon>deleteCostumer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="deleteTrain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="deleteTrain.Designer.cs">
+      <DependentUpon>deleteTrain.cs</DependentUpon>
+    </Compile>
     <Compile Include="displayTrips.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -84,6 +102,62 @@
     <Compile Include="rigesterCostumer.Designer.cs">
       <DependentUpon>rigesterCostumer.cs</DependentUpon>
     </Compile>
+    <Compile Include="TrianBookingDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>TrianBookingDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="TrianBookingDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>TrianBookingDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="TrianBookingDataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>TrianBookingDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="TrianBookingDataSet3.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>TrianBookingDataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="TrianBookingDataSet4.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>TrianBookingDataSet4.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="TrianBookingDataSet5.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>TrianBookingDataSet5.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="TrianBookingDataSet6.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>TrianBookingDataSet6.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="updateCostumer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="updateCostumer.Designer.cs">
+      <DependentUpon>updateCostumer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="updateTrian.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="updateTrian.Designer.cs">
+      <DependentUpon>updateTrian.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="addTrian.resx">
+      <DependentUpon>addTrian.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="deleteCostumer.resx">
+      <DependentUpon>deleteCostumer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="deleteTrain.resx">
+      <DependentUpon>deleteTrain.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="edit.resx">
       <DependentUpon>edit.cs</DependentUpon>
     </EmbeddedResource>
@@ -108,6 +182,12 @@
     <EmbeddedResource Include="rigesterCostumer.resx">
       <DependentUpon>rigesterCostumer.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="updateCostumer.resx">
+      <DependentUpon>updateCostumer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="updateTrian.resx">
+      <DependentUpon>updateTrian.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -117,6 +197,83 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <None Include="TrianBookingDataSet.xsc">
+      <DependentUpon>TrianBookingDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="TrianBookingDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>TrianBookingDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="TrianBookingDataSet.xss">
+      <DependentUpon>TrianBookingDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="TrianBookingDataSet1.xsc">
+      <DependentUpon>TrianBookingDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="TrianBookingDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>TrianBookingDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="TrianBookingDataSet1.xss">
+      <DependentUpon>TrianBookingDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="TrianBookingDataSet2.xsc">
+      <DependentUpon>TrianBookingDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="TrianBookingDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>TrianBookingDataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="TrianBookingDataSet2.xss">
+      <DependentUpon>TrianBookingDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="TrianBookingDataSet3.xsc">
+      <DependentUpon>TrianBookingDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="TrianBookingDataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>TrianBookingDataSet3.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="TrianBookingDataSet3.xss">
+      <DependentUpon>TrianBookingDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="TrianBookingDataSet4.xsc">
+      <DependentUpon>TrianBookingDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="TrianBookingDataSet4.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>TrianBookingDataSet4.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="TrianBookingDataSet4.xss">
+      <DependentUpon>TrianBookingDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="TrianBookingDataSet5.xsc">
+      <DependentUpon>TrianBookingDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="TrianBookingDataSet5.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>TrianBookingDataSet5.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="TrianBookingDataSet5.xss">
+      <DependentUpon>TrianBookingDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="TrianBookingDataSet6.xsc">
+      <DependentUpon>TrianBookingDataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="TrianBookingDataSet6.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>TrianBookingDataSet6.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="TrianBookingDataSet6.xss">
+      <DependentUpon>TrianBookingDataSet6.xsd</DependentUpon>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

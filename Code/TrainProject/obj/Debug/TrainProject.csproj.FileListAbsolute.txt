@@ -13,3 +13,23 @@ D:\FCAI\Second Year\Second Semester\DataBase\Assignment\Code\TrainProject\obj\De
 D:\FCAI\Second Year\Second Semester\DataBase\Assignment\Code\TrainProject\obj\Debug\TrainProject.csproj.CoreCompileInputs.cache
 D:\FCAI\Second Year\Second Semester\DataBase\Assignment\Code\TrainProject\obj\Debug\TrainProject.exe
 D:\FCAI\Second Year\Second Semester\DataBase\Assignment\Code\TrainProject\obj\Debug\TrainProject.pdb
+C:\Users\sh2\Documents\GitHub\TrainBooking\Code\TrainProject\bin\Debug\TrainProject.exe.config
+C:\Users\sh2\Documents\GitHub\TrainBooking\Code\TrainProject\bin\Debug\TrainProject.exe
+C:\Users\sh2\Documents\GitHub\TrainBooking\Code\TrainProject\bin\Debug\TrainProject.pdb
+C:\Users\sh2\Documents\GitHub\TrainBooking\Code\TrainProject\obj\Debug\TrainProject.csproj.AssemblyReference.cache
+C:\Users\sh2\Documents\GitHub\TrainBooking\Code\TrainProject\obj\Debug\TrainProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\sh2\Documents\GitHub\TrainBooking\Code\TrainProject\obj\Debug\TrainProject.edit.resources
+C:\Users\sh2\Documents\GitHub\TrainBooking\Code\TrainProject\obj\Debug\TrainProject.Form1.resources
+C:\Users\sh2\Documents\GitHub\TrainBooking\Code\TrainProject\obj\Debug\TrainProject.loginAdmin.resources
+C:\Users\sh2\Documents\GitHub\TrainBooking\Code\TrainProject\obj\Debug\TrainProject.loginCostumer.resources
+C:\Users\sh2\Documents\GitHub\TrainBooking\Code\TrainProject\obj\Debug\TrainProject.Properties.Resources.resources
+C:\Users\sh2\Documents\GitHub\TrainBooking\Code\TrainProject\obj\Debug\TrainProject.rigesterCostumer.resources
+C:\Users\sh2\Documents\GitHub\TrainBooking\Code\TrainProject\obj\Debug\TrainProject.updateCostumer.resources
+C:\Users\sh2\Documents\GitHub\TrainBooking\Code\TrainProject\obj\Debug\TrainProject.csproj.GenerateResource.cache
+C:\Users\sh2\Documents\GitHub\TrainBooking\Code\TrainProject\obj\Debug\TrainProject.csproj.CoreCompileInputs.cache
+C:\Users\sh2\Documents\GitHub\TrainBooking\Code\TrainProject\obj\Debug\TrainProject.exe
+C:\Users\sh2\Documents\GitHub\TrainBooking\Code\TrainProject\obj\Debug\TrainProject.pdb
+C:\Users\sh2\Documents\GitHub\TrainBooking\Code\TrainProject\obj\Debug\TrainProject.deleteCostumer.resources
+C:\Users\sh2\Documents\GitHub\TrainBooking\Code\TrainProject\obj\Debug\TrainProject.addTrian.resources
+C:\Users\sh2\Documents\GitHub\TrainBooking\Code\TrainProject\obj\Debug\TrainProject.updateTrian.resources
+C:\Users\sh2\Documents\GitHub\TrainBooking\Code\TrainProject\obj\Debug\TrainProject.deleteTrain.resources
